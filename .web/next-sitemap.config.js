@@ -1,0 +1,1 @@
+module.exports = {"siteUrl": "https://portfolio_reflex-gold-star.reflex.run", "generateRobotsTxt": true, "outDir": "_static"}
